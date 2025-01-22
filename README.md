@@ -5,23 +5,23 @@ Welcome to the **Customer Churn Prediction Platform** project! This repository d
 ---
 
 ## **Table of Contents**
-1. [Project Overview](#project-overview)  
-2. [Architecture](#architecture)  
-3. [Features](#features)  
-4. [Getting Started (Local Development)](#getting-started-local-development)
-5. [Training the Model](#training-the-model)
-6. [Running Tests](#running-tests)  
-7. [Serving the Model (FastAPI)](#serving-the-model-fastapi)  
-8. [Docker Usage](#docker-usage)  
-9. [CI/CD Pipeline (Future)](#cicd-pipeline-future)  
-10. [Cloud Deployment (Future)](#cloud-deployment-future)  
-11. [Contributing](#contributing)  
-12. [License](#license)  
-13. [Acknowledgments](#acknowledgments)
+1. [Project Overview](#1-project-overview)  
+2. [Architecture](#2-architecture)  
+3. [Features](#3-features)  
+4. [Getting Started (Local Development)](#4-getting-started-local-development)
+5. [Training the Model](#5-training-the-model)
+6. [Running Tests](#6-running-tests)  
+7. [Serving the Model (FastAPI)](#7-serving-the-model-fastapi)  
+8. [Docker Usage](#8-docker-usage)  
+9. [CI/CD Pipeline (Future)](#9-cicd-pipeline-future)  
+10. [Cloud Deployment (Future)](#10-cloud-deployment-future)  
+11. [Contributing](#11-contributing)  
+12. [License](#12-license)  
+13. [Acknowledgments](#13-acknowledgments)
 
 ---
 
-## **1. Project Overview**
+## **1.  Project Overview**
 
 The **Customer Churn Prediction Platform** aims to predict which customers are likely to stop using a service (churn) based on historical usage data, demographics, and other relevant factors. You can adapt this platform for various domains (telecommunications, streaming services, subscription products, etc.).
 
