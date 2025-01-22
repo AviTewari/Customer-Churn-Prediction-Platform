@@ -21,7 +21,7 @@ Welcome to the **Customer Churn Prediction Platform** project! This repository d
 
 ---
 
-## **1.  Project Overview**
+## **1. Project Overview**
 
 The **Customer Churn Prediction Platform** aims to predict which customers are likely to stop using a service (churn) based on historical usage data, demographics, and other relevant factors. You can adapt this platform for various domains (telecommunications, streaming services, subscription products, etc.).
 
